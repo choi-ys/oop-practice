@@ -1,6 +1,5 @@
 package io.example.ex2.calculator.v5.operator;
 
-import static org.junit.jupiter.api.Assertions.*;
 import static org.assertj.core.api.Assertions.assertThat;
 
 import org.junit.jupiter.api.DisplayName;

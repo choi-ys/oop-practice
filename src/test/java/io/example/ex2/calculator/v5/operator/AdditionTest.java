@@ -2,7 +2,6 @@ package io.example.ex2.calculator.v5.operator;
 
 import static org.assertj.core.api.Assertions.assertThat;
 
-import io.example.ex2.calculator.v5.operator.Addition;
 import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Test;
 import org.junit.jupiter.params.ParameterizedTest;
